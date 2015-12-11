@@ -1,3 +1,5 @@
+package yougou.chapter1;
+
 /**
  * Created by root on 15-6-14.
  */
